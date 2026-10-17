@@ -1,0 +1,16 @@
+[project]
+name = "ml-noise-workshop"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.8",
+    "numpy>=1.26",
+    "polars>=1.0",
+    "scikit-learn>=1.4",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29",
+    "jupyterlab>=4.2",
+]
