@@ -33,9 +33,12 @@ each notebook, because every Colab notebook runs on its own machine. Polars, sci
 installed on Colab.
 
 Open directly in Colab:
-[00](https://colab.research.google.com/github/kjibran/euramet_ml_noise_workshop/blob/main/00_noise_data_exploration.ipynb) ·
-[01](https://colab.research.google.com/github/kjibran/euramet_ml_noise_workshop/blob/main/01_noise_calibration.ipynb) ·
-[02](https://colab.research.google.com/github/kjibran/euramet_ml_noise_workshop/blob/main/02_noise_drift_detection.ipynb)
+
+| Notebook | |
+|---|---|
+| 00 Explore the data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjibran/euramet_ml_noise_workshop/blob/main/00_noise_data_exploration.ipynb) |
+| 01 Calibrate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjibran/euramet_ml_noise_workshop/blob/main/01_noise_calibration.ipynb) |
+| 02 Detect drift | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjibran/euramet_ml_noise_workshop/blob/main/02_noise_drift_detection.ipynb) |
 
 **On your own computer**: you need Python 3.10 or newer and [uv](https://docs.astral.sh/uv/). In this folder:
 
